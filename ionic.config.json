@@ -1,0 +1,8 @@
+{
+  "name": "RCSI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5a569be1"
+}

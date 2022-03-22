@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RCSI",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
